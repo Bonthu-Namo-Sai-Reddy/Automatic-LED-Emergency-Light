@@ -39,5 +39,10 @@ This Automatic LED Emergency Light system ensures reliable backup lighting durin
 ✨ Brightness Control: Adjust LED brightness based on battery level.  
 ✨ Microcontroller Integration: Use Arduino for advanced control and monitoring.  
 
+📂 Resources
+https://eeeproject.com/automatic-emergency-light/
+https://www.circuits-diy.com/automatic-led-emergency-light-circuit/
+
+
 📜 License  
 📌 This project is open-source under the GNU General Public License v3.0 License.
