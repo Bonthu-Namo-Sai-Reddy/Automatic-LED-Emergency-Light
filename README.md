@@ -1,11 +1,11 @@
 # 🚨 Automatic LED Emergency Light
 An automatic emergency lighting system that activates during power failures, providing uninterrupted illumination using rechargeable batteries.
 
-🖼️Circuit Diagram  
-![image](https://github.com/user-attachments/assets/1ccdb080-1700-4a8d-b754-28e783bc1e4e)
-
 🚀 Project Overview  
 This Automatic LED Emergency Light system ensures reliable backup lighting during power outages. The circuit automatically detects the absence of AC mains power and instantly switches on LEDs using a rechargeable battery. Once power is restored, the system turns off the LEDs and resumes battery charging.
+
+🖼️Circuit Diagram  
+![image](https://github.com/user-attachments/assets/1ccdb080-1700-4a8d-b754-28e783bc1e4e)
 
 ⚙️ Working Principle  
 1️⃣ Normal Mode: When AC power is available, the battery charges, and LEDs remain OFF.  
